@@ -1,0 +1,5 @@
+D:\Users\User\Desktop\DesignPatterns\Template\bin\Debug\Template.exe.config
+D:\Users\User\Desktop\DesignPatterns\Template\bin\Debug\Template.exe
+D:\Users\User\Desktop\DesignPatterns\Template\bin\Debug\Template.pdb
+D:\Users\User\Desktop\DesignPatterns\Template\obj\Debug\Template.exe
+D:\Users\User\Desktop\DesignPatterns\Template\obj\Debug\Template.pdb

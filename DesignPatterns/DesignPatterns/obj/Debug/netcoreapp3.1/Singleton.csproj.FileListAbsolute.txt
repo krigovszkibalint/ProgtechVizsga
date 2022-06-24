@@ -1,0 +1,3 @@
+D:\Users\User\Desktop\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\Singleton.exe
+D:\Users\User\Desktop\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
