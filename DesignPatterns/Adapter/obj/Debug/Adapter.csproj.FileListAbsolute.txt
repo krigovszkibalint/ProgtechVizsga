@@ -1,0 +1,6 @@
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Adapter\bin\Debug\Adapter.exe.config
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Adapter\bin\Debug\Adapter.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Adapter\obj\Debug\Adapter.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Adapter\obj\Debug\Adapter.pdb

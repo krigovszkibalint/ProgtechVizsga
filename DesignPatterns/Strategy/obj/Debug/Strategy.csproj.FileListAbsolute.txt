@@ -4,3 +4,9 @@ D:\Users\User\Desktop\DesignPatterns\Strategy\bin\Debug\Strategy.pdb
 D:\Users\User\Desktop\DesignPatterns\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
 D:\Users\User\Desktop\DesignPatterns\Strategy\obj\Debug\Strategy.exe
 D:\Users\User\Desktop\DesignPatterns\Strategy\obj\Debug\Strategy.pdb
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Strategy\bin\Debug\Strategy.exe.config
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Strategy\bin\Debug\Strategy.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Strategy\bin\Debug\Strategy.pdb
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Strategy\obj\Debug\Strategy.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Strategy\obj\Debug\Strategy.pdb

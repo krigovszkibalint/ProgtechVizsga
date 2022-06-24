@@ -1,0 +1,5 @@
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Observer\bin\Debug\Observer.exe.config
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Observer\bin\Debug\Observer.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Observer\bin\Debug\Observer.pdb
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Observer\obj\Debug\Observer.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Observer\obj\Debug\Observer.pdb

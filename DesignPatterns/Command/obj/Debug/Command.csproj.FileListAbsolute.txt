@@ -1,0 +1,5 @@
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Command\bin\Debug\Command.exe.config
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Command\bin\Debug\Command.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Command\bin\Debug\Command.pdb
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Command\obj\Debug\Command.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Command\obj\Debug\Command.pdb

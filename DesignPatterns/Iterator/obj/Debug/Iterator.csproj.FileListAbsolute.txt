@@ -1,0 +1,6 @@
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Iterator\bin\Debug\Iterator.exe.config
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Iterator\bin\Debug\Iterator.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Iterator\bin\Debug\Iterator.pdb
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Iterator\obj\Debug\Iterator.csprojAssemblyReference.cache
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Iterator\obj\Debug\Iterator.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Iterator\obj\Debug\Iterator.pdb

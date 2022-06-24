@@ -1,0 +1,1 @@
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache

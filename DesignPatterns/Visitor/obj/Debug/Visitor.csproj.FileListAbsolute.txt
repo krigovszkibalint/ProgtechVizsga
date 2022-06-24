@@ -1,0 +1,5 @@
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Visitor\bin\Debug\Visitor.exe.config
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Visitor\bin\Debug\Visitor.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Visitor\bin\Debug\Visitor.pdb
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Visitor\obj\Debug\Visitor.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Visitor\obj\Debug\Visitor.pdb

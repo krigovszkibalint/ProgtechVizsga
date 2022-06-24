@@ -1,0 +1,6 @@
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb

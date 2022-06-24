@@ -1,0 +1,5 @@
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Facade\bin\Debug\Facade.exe.config
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Facade\bin\Debug\Facade.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Facade\bin\Debug\Facade.pdb
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Facade\obj\Debug\Facade.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Facade\obj\Debug\Facade.pdb

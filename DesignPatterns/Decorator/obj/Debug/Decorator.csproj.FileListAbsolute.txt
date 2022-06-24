@@ -1,0 +1,5 @@
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Decorator\bin\Debug\Decorator.exe.config
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Decorator\bin\Debug\Decorator.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Decorator\bin\Debug\Decorator.pdb
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Decorator\obj\Debug\Decorator.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Decorator\obj\Debug\Decorator.pdb

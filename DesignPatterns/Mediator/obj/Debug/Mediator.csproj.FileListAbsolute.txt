@@ -1,0 +1,5 @@
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Mediator\bin\Debug\Mediator.exe.config
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Mediator\bin\Debug\Mediator.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Mediator\bin\Debug\Mediator.pdb
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Mediator\obj\Debug\Mediator.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Mediator\obj\Debug\Mediator.pdb

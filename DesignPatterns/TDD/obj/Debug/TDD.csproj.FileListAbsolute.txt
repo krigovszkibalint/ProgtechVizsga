@@ -1,0 +1,6 @@
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\TDD\bin\Debug\TDD.exe.config
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\TDD\bin\Debug\TDD.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\TDD\bin\Debug\TDD.pdb
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\TDD\obj\Debug\TDD.csprojAssemblyReference.cache
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\TDD\obj\Debug\TDD.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\TDD\obj\Debug\TDD.pdb

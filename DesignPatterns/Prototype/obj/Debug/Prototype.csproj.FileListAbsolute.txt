@@ -1,0 +1,6 @@
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Prototype\bin\Debug\Prototype.exe.config
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Prototype\bin\Debug\Prototype.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Prototype\bin\Debug\Prototype.pdb
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Prototype\obj\Debug\Prototype.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Prototype\obj\Debug\Prototype.pdb

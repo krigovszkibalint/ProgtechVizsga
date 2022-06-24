@@ -1,0 +1,5 @@
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\State\bin\Debug\State.exe.config
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\State\bin\Debug\State.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\State\bin\Debug\State.pdb
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\State\obj\Debug\State.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\State\obj\Debug\State.pdb

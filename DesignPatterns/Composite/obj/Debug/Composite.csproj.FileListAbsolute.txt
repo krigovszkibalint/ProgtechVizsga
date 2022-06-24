@@ -1,0 +1,5 @@
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Composite\bin\Debug\Composite.exe.config
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Composite\bin\Debug\Composite.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Composite\bin\Debug\Composite.pdb
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Composite\obj\Debug\Composite.exe
+D:\Users\User\Desktop\ProgtechVizsga\DesignPatterns\Composite\obj\Debug\Composite.pdb
